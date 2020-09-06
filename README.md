@@ -1,4 +1,4 @@
-# 159.339-1
+# ATM 
 
 A simple ATM mechanism, gets input from 2 files which are *acct.txt* and *tranz.txt* 
 
