@@ -1,6 +1,6 @@
 # 159.339-1
 
-A smimple ATM mechanism, gets input from 2 files which are *acct.txt* and *tranz.txt* 
+A simple ATM mechanism, gets input from 2 files which are *acct.txt* and *tranz.txt* 
 
 *acct.txt* has numbers of bank accounts and a corresponding balances
 
